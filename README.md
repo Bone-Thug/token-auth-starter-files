@@ -1,5 +1,5 @@
 # JSON Web Token Authorization 👮🏻
 
-Source:
-https://coursework.vschool.io/token-auth-with-jwts-part1/
+Sources: <br>
+https://coursework.vschool.io/token-auth-with-jwts-part1/ <br>
 https://coursework.vschool.io/token-auth-with-jwts-part2/
